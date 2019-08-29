@@ -71,9 +71,17 @@ body {
         A las imagenes:
             -Ancho fijo de 500px;
         */
+        img{
+            width: 500px;
+        }
 
 /*
         A las líneas divisoras:
             -Borde gris punteado de 5px
             -padding de 1px en todas direcciones
         */
+
+        hr{
+            border: grey 5px;
+            padding: 1px;
+        }
