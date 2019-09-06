@@ -1,0 +1,11 @@
+body{
+    background-image: url(fondos-de-colores-10.jpeg);
+}
+
+.header{
+    flex-direction: row-reverse;
+}
+
+h1{
+    align-items: center;
+}
