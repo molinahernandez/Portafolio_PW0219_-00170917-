@@ -1,11 +1,27 @@
 body{
-    background-image: url(fondos-de-colores-10.jpeg);
-}
-
-.header{
-    flex-direction: row-reverse;
+    background-image: url(deportes.jpeg);
 }
 
 h1{
+    display: flex;  
+    justify-content: center;
+}
+
+.botones{
+    display: flex;
+    justify-content: flex-end;
+}
+
+img{
+    width: 100px;
+    height: 100px;
+}
+
+.logos{
+    display: flex;
+    justify-content: space-around;
     align-items: center;
 }
+
+
+
