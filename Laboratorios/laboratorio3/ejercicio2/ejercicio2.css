@@ -10,6 +10,7 @@ h1{
 .botones{
     display: flex;
     justify-content: flex-end;
+    background: purple;
 }
 
 img{
